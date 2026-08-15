@@ -270,51 +270,7 @@ on one recurring pricing workflow.
 
 ---
 
-## `05 / GITHUB PULSE`
-
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    width="100%"
-    alt="Supul's GitHub activity"
-  />
-</p>
-
-<details>
-<summary><b>+ open contribution radar</b></summary>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=supulwickramasinghe&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Supul's contribution activity"
-  />
-</p>
-
-</details>
-
-<br>
-
-<p align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Supul's contribution snake"
-    src="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</p>
-
-## `06 / DON'T JUST READ THE README`
+## `05 / DON'T JUST READ THE README`
 
 <p align="center">
   <a href="https://github.com/supulwickramasinghe?tab=repositories">
