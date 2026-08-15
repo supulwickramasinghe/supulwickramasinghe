@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="270" viewBox="0 0 460 270">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020617"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+</defs>
+<rect width="460" height="270" rx="24" fill="url(#bg)" stroke="#1e293b"/>
+<text x="28" y="42" font-family="monospace" font-size="14" fill="#64748b">TELCO / 01</text>
+<text x="28" y="85" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#f8fafc">Telecom Intelligence</text>
+<text x="28" y="118" font-family="monospace" font-size="13" fill="#94a3b8">Fabric  •  PySpark  •  Power BI  •  Azure ML</text>
+<line x1="28" y1="146" x2="432" y2="146" stroke="#1e293b"/>
+<text x="28" y="190" font-family="monospace" font-size="14" fill="#2563eb">raw  →  lakehouse  →  BI  →  ML</text>
+<rect x="28" y="215" width="140" height="30" rx="15" fill="#0f172a" stroke="#2563eb"/>
+<text x="98" y="235" font-family="monospace" font-size="12" text-anchor="middle" fill="#cbd5e1">OPEN BUILD ↗</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020617"/>
+    <stop offset="0.52" stop-color="#0f172a"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#2563eb"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="420" rx="26" fill="url(#bg)"/>
+<g opacity=".24" stroke="#334155">
+  <path d="M0 70H1400M0 140H1400M0 210H1400M0 280H1400M0 350H1400"/>
+  <path d="M100 0V420M300 0V420M500 0V420M700 0V420M900 0V420M1100 0V420M1300 0V420"/>
+</g>
+
+<g font-family="monospace" fill="#94a3b8" font-size="17">
+  <text x="72" y="72">SUPUL / DATA SYSTEMS</text>
+  <text x="72" y="118" fill="#38bdf8">&gt; ingest_</text>
+  <text x="72" y="150" fill="#38bdf8">&gt; engineer_</text>
+  <text x="72" y="182" fill="#38bdf8">&gt; analyze_</text>
+  <text x="72" y="214" fill="#38bdf8">&gt; model_</text>
+  <text x="72" y="246" fill="#38bdf8">&gt; deploy_</text>
+</g>
+
+<text x="420" y="128" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f8fafc">SUPUL WICKRAMASINGHE</text>
+<text x="420" y="175" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#94a3b8">DATA SCIENCE  ×  ANALYTICS  ×  CLOUD  ×  AI</text>
+<text x="420" y="222" font-family="monospace" font-size="18" fill="#64748b">building systems where data actually leaves the notebook.</text>
+
+<g stroke="url(#line)" stroke-width="3" fill="#0f172a" filter="url(#glow)">
+  <line x1="885" y1="302" x2="1010" y2="302"/>
+  <line x1="1010" y1="302" x2="1135" y2="302"/>
+  <line x1="1135" y1="302" x2="1260" y2="302"/>
+  <circle cx="885" cy="302" r="9"/>
+  <circle cx="1010" cy="302" r="9"/>
+  <circle cx="1135" cy="302" r="9"/>
+  <circle cx="1260" cy="302" r="9"/>
+</g>
+<g font-family="monospace" font-size="14" fill="#cbd5e1" text-anchor="middle">
+  <text x="885" y="335">DATA</text>
+  <text x="1010" y="335">PIPELINES</text>
+  <text x="1135" y="335">MODELS</text>
+  <text x="1260" y="335">DECISIONS</text>
+</g>
+
+<rect x="72" y="322" width="220" height="40" rx="20" fill="#0b1220" stroke="#1d4ed8"/>
+<text x="182" y="348" font-family="monospace" font-size="15" text-anchor="middle" fill="#60a5fa">[ SYSTEM ONLINE ]</text>
+</svg>
