@@ -274,15 +274,9 @@ on one recurring pricing workflow.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=supulwickramasinghe&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    height="165"
-    alt="Supul's GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulwickramasinghe&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-    height="165"
-    alt="Supul's most used languages"
+    src="./github-metrics.svg"
+    width="100%"
+    alt="Supul's GitHub activity"
   />
 </p>
 
@@ -295,7 +289,7 @@ on one recurring pricing workflow.
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=supulwickramasinghe&theme=github-compact&hide_border=true&area=true"
     width="100%"
-    alt="Supul's contribution graph"
+    alt="Supul's contribution activity"
   />
 </p>
 
@@ -304,11 +298,20 @@ on one recurring pricing workflow.
 <br>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub contribution snake"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Supul's contribution snake"
+    src="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </p>
 
 ## `06 / DON'T JUST READ THE README`
