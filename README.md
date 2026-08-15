@@ -270,28 +270,7 @@ on one recurring pricing workflow.
 
 ---
 
-## `05 / GITHUB PULSE`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supulwickramasinghe&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563eb&icon_color=2563eb&text_color=64748b">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulwickramasinghe&layout=compact&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=64748b&langs_count=8">
-</p>
-
-<details>
-<summary><b>+ open contribution radar</b></summary>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supulwickramasinghe&bg_color=transparent&color=64748b&line=2563eb&point=2563eb&area=true&hide_border=true">
-
-</details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake">
-  <img src="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake">
-</p>
-
----
+https://ww8.123moviesfree.net/movie/the-lord-of-the-rings-the-two-towers-1875/
 
 ## `06 / DON'T JUST READ THE README`
 
