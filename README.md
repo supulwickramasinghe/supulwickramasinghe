@@ -270,7 +270,46 @@ on one recurring pricing workflow.
 
 ---
 
-https://ww8.123moviesfree.net/movie/the-lord-of-the-rings-the-two-towers-1875/
+## `05 / GITHUB PULSE`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=supulwickramasinghe&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="165"
+    alt="Supul's GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulwickramasinghe&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    height="165"
+    alt="Supul's most used languages"
+  />
+</p>
+
+<details>
+<summary><b>+ open contribution radar</b></summary>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=supulwickramasinghe&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="Supul's contribution graph"
+  />
+</p>
+
+</details>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/supulwickramasinghe/supulwickramasinghe/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub contribution snake"
+  />
+</p>
 
 ## `06 / DON'T JUST READ THE README`
 
