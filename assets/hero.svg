@@ -27,7 +27,7 @@
 </g>
 
 <text x="420" y="128" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f8fafc">SUPUL WICKRAMASINGHE</text>
-<text x="420" y="175" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#94a3b8">DATA SCIENCE  ×  ANALYTICS  ×  CLOUD  ×  AI</text>
+<text x="420" y="175" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#94a3b8">DATA SCIENCE  ×  DATA ENGINEERING  × ANALYTICS </text>
 <text x="420" y="222" font-family="monospace" font-size="18" fill="#64748b">building systems where data actually leaves the notebook.</text>
 
 <g stroke="url(#line)" stroke-width="3" fill="#0f172a" filter="url(#glow)">
