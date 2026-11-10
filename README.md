@@ -15,7 +15,7 @@
 ```yaml
 supul@github
 ─────────────────────────────────
-role       → Junior Data Scientist
+role       → Junior Data Scientist x Data Engineer
 focus      → Data × ML × Cloud
 building   → systems beyond notebooks
 location   → Colombo, Sri Lanka
